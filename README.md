@@ -7,3 +7,5 @@ dossier Arkeydia à mettre dans C:/
 
 Les fichiers exports .json .csv sont au m^me endroit que le .blend
 si les exports ne marche pas c est souvent parce que le fichier est déja ouvert
+
+csv, si openoffice , ouvrir en mode tabulation, separateur virgules cochés
